@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Student Result System</title>
+</head>
+<body>
+
+<h2>Student Result System</h2>
+
+Marks: <input type="number" id="marks">
+
+<button onclick="checkResult()">Check</button>
+
+<h3 id="result"></h3>
+
+<script src="script.js"></script>
+
+</body>
+</html>
